@@ -1,0 +1,2 @@
+Smiles	Token
+Cc1[nH]c2nc(N)nn2c(=O)c1Cc1ccccc1	C c 1 [nH] c 2 n c ( N ) n n 2 c ( = O ) c 1 C c 1 c c c c c 1 EOS
