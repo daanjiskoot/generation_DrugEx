@@ -1,0 +1,1 @@
+{"base_dir": ".", "input": "ccr2", "save_model": true, "model_types": ["RF"], "regression": [true, false], "targets": ["P41597"], "activity_threshold": 6.5, "keep_low_quality": false, "year": null, "test_size": 0.1, "optimization": null, "model_evaluation": true, "ncpu": 8, "gpu": "1,2,3,4", "batch_size": 2048, "epochs": 1000, "no_git": false, "git_commit": "#b0ef5046"}
